@@ -1,0 +1,106 @@
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+body{
+    background:#84af84;
+    color:#000000;
+}
+
+header{
+    background:linear-gradient(to right, #2e8b57, #4caf50);
+    color:white;
+    text-align:center;
+    padding:40px;
+}
+h1{
+    text-align:center;
+    color: rgb(6, 14, 54);
+    background-color: rgb(183, 224, 211);
+}
+.center-text{
+    text-align:center;
+}
+.center-nav {
+  display: flex;            
+  justify-content: center;   
+  gap: 20px;                
+}
+.hero{
+    text-align:center;
+    padding:40px 20px;
+    background:white;
+}
+nav a{
+    color:rgb(57, 63, 119);
+    text-decoration:none;
+    margin:0 15px;
+    font-weight:bold;
+}
+nav{
+    background:#7aa6e9;
+    padding:15px;
+    text-align:center;
+}
+.hero h2{
+    color:#021331;
+    margin-bottom:20px;
+    height: auto;
+}
+.hero p{
+    max: width 700px;px;
+    margin:auto;
+    line-height:1.6;
+
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #90c7ab; 
+    margin: 0;
+    padding: 20px;
+}
+.cards{
+    display:flex;
+    justify-content:center;
+    flex-wrap:wrap;
+    gap:20px;
+}
+
+.card{
+    background:white;
+    width:280px;
+    padding:20px;
+    border-radius:10px;
+    box-shadow:0 0 10px rgba(0,0,0,0.1);
+    transition:0.3s;
+}
+
+.card h3{
+    color:#4caf50;
+    margin-bottom:10px;
+}
+
+footer{
+    background:#1b5e20;
+    color:white;
+    text-align:center;
+    padding:20px;
+}
+h2{
+   text-align:center; 
+}
+.greentext{
+    color: rgb(19, 59, 19);
+    font-weight:bold;
+}
+.bluetext{
+    color: cadetblue;
+    font-weight:bold;
+}
+</style>
+</head>
+
+
